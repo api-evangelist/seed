@@ -1,0 +1,52 @@
+{
+    "name": "Seed",
+    "description": "<p>Seed - Online business banking. Seed offers all the services you need, but without the hassle. Managing your banking has never been easier. Seed integrates with the other apps and services you use, helping you put your business on autopilot.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/seed-banking.jpg",
+    "tags": [
+        "banking",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/seed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Seed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/seed-banking.jpg",
+            "humanURL": "https:\/\/seed.co\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/seed-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/seed.co\/blog\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/docs.seed.co\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/seedco"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/seedbiz"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/seed.co\/"
+        }
+    ]
+}
